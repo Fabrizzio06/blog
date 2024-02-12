@@ -1,0 +1,14 @@
+{
+  "subtitulo1": "Este es el subtitulo",
+  "parrafo1": "este es un parrafo normal",
+  "imagen1": {
+    "url": "htpps://domino/carpeta7imagen.jpg",
+    "alt": "descripcion de la imagen"
+  },
+  "parrafo2": "este es el segundo parrafo",
+  "subtitulo2": "Este es el subtitulo 2",
+  "imagen2": {
+    "url": "htpps://domino/carpeta7imagen.jpg",
+    "alt": "descripcion de la imagen"
+  }
+}
